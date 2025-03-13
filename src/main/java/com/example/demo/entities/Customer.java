@@ -38,7 +38,7 @@ public class Customer {
 
     @NotNull
     @Column(name = "postal_code")
-    public String postal_code;
+    public String postalCode;
 
     @NotNull
     @Column(name = "phone")
